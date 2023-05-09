@@ -1,0 +1,12 @@
+D:\VB_Test\VB_Test\bin\Debug\VB_Test.exe.config
+D:\VB_Test\VB_Test\bin\Debug\VB_Test.exe
+D:\VB_Test\VB_Test\bin\Debug\VB_Test.pdb
+D:\VB_Test\VB_Test\bin\Debug\VB_Test.xml
+D:\VB_Test\VB_Test\obj\Debug\VB_Test.vbproj.AssemblyReference.cache
+D:\VB_Test\VB_Test\obj\Debug\VB_Test.vbproj.SuggestedBindingRedirects.cache
+D:\VB_Test\VB_Test\obj\Debug\VB_Test.Resources.resources
+D:\VB_Test\VB_Test\obj\Debug\VB_Test.vbproj.GenerateResource.cache
+D:\VB_Test\VB_Test\obj\Debug\VB_Test.vbproj.CoreCompileInputs.cache
+D:\VB_Test\VB_Test\obj\Debug\VB_Test.exe
+D:\VB_Test\VB_Test\obj\Debug\VB_Test.xml
+D:\VB_Test\VB_Test\obj\Debug\VB_Test.pdb
